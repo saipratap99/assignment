@@ -20,3 +20,5 @@ end
 array = [4, 5, 58, 65]
 num = 85
 puts binary_search array, num
+num = 12
+puts binary_search array, num
